@@ -1,1 +1,1 @@
-[{"title": "The Course for Humanity", "duration": "70 hours 2 mins"}]
+[{"title": "The Course for Humanity", "duration": "70 hours 2 mins"}, {"title": "The End of Humanity", "duration": "50 hours"}]
