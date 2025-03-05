@@ -1,6 +1,11 @@
+import os
 import json
+from dotenv import load_dotenv
 
-file_name = "E:\\Python Practice Projects\\Youtube_manager\\Video_Details.txt"
+load_dotenv()  # This loads variables from the .env file in the current directory
+
+file_name = os.getenv("file_name")  # Now file_name is available
+
 
 def load_data():
     try:
